@@ -1,0 +1,66 @@
+.Container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+
+.manga-container {
+  margin: 5px;
+  text-align: center;
+  position: relative;
+  padding: 10px 20px 20px 20px;
+  flex-basis: 10px;
+}
+
+img{
+  width: 220px; 
+  height: 320px;
+  padding: 10px 20px 10px 20px;
+  display: block;
+}
+
+.img-container{
+  border-width: 5px;
+  border-style: solid;
+  padding-bottom: 10px;
+}
+
+.viewCount{
+ float: left;
+ padding-left: 20px;
+}
+
+.commentCount{
+  padding-left: 90px;
+}
+
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 0;
+  
+}
+
+li{
+  float: left;
+  padding: 0px 21px 0px 22px;
+  display: block;
+  background-color: black;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

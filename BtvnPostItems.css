@@ -1,0 +1,10 @@
+.post-items{
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.post-items .post-info .item-name .item-content {
+    display: block;
+}
